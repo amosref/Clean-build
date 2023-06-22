@@ -5,3 +5,6 @@ core/input-cache
 core/temp
 core/template
 publisher.jar
+core/output
+temp
+webroot/core

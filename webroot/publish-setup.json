@@ -3,10 +3,11 @@
     "style" : "fhir.layout",
     "url" : "http://fhir.health.gov.il",
     "server" : "asp-new",
-    "org" : "IL Core",
-    "layout": {
-      "id":"health.gov.il.fhir.[code]",
-      "canonical":"http://fhir.health.gov.il/[code]"
-    }
-  }
+    "org" : "IL Core"
+  },
+  "layout-rules": [{
+    "npm":"health.gov.il.fhir.*",
+    "destination":"/{5}",
+    "canonical":"http://fhir.health.gov.il/{5}"
+  }]
 }
