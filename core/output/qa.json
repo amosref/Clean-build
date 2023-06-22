@@ -1,0 +1,10 @@
+{
+  "url" : "http://fhir.health.gov.il/core/ImplementationGuide/core",
+  "name" : "ILCoreImplementationGuide",
+  "package-id" : "health.gov.il.fhir.core",
+  "ig-ver" : "0.0.1",
+  "date" : "Thu, 22 Jun, 2023 15:02:26 +0200",
+  "exception" : "Template based HTML file index.html is missing source file index.md",
+  "version" : "4.0.1",
+  "tool" : "5.0.0 (3)"
+}
